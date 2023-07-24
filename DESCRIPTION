@@ -1,9 +1,10 @@
 Package: exercise6.Seo
 Type: Package
-Title: Visualizing and Showing the next defibrillator
+Title: Visualizing and Showing the Next Defibrillator
 Version: 0.1.0
 Authors@R: 
     person("Jiyoun", "Seo", , "jiyoun.seo@gmx.de", role = c("aut", "cre"))
+Maintainer: Jiyoun Seo <jiyoun.seo@gmx.de>
 Description: The Package visualizes and shows the position of all 
     defibrillators in the chosen city and shows us the location of the next
     defibrillator.
